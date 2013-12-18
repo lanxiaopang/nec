@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6bb0e4b-e336-4d18-8fc0-adcbbe573394" name="Default" comment="" />
+    <list default="true" id="d6bb0e4b-e336-4d18-8fc0-adcbbe573394" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Layout/threeLeftFix.html" afterPath="$PROJECT_DIR$/Layout/threeLeftFix.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="nec.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="30" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="1083">
+            <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.25357142" vertical-offset="523" max-vertical-offset="1083">
               <folding />
             </state>
           </provider>
@@ -71,25 +76,25 @@
       <file leaf-file-name="threeLeftFix.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Layout/threeLeftFix.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="23" selection-start="612" selection-end="612" vertical-scroll-proportion="-10.857142" vertical-offset="19" max-vertical-offset="665">
+            <state line="25" column="13" selection-start="764" selection-end="764" vertical-scroll-proportion="-16.285715" vertical-offset="19" max-vertical-offset="665">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="threeRightFix.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="threeRightFix.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Layout/threeRightFix.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="24" selection-start="589" selection-end="589" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="665">
+            <state line="17" column="19" selection-start="609" selection-end="609" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="665">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/function.css">
+      <file leaf-file-name="text.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/At sixes and sevens/text.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="49" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="798">
+            <state line="29" column="23" selection-start="953" selection-end="953" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="1254">
               <folding />
             </state>
           </provider>
@@ -120,6 +125,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -136,8 +149,8 @@
         <option value="$PROJECT_DIR$/Layout/twoAdapt.html" />
         <option value="$PROJECT_DIR$/Layout/multyFixed.html" />
         <option value="$PROJECT_DIR$/Layout/threeMidFix.html" />
-        <option value="$PROJECT_DIR$/Layout/threeLeftFix.html" />
         <option value="$PROJECT_DIR$/Layout/threeRightFix.html" />
+        <option value="$PROJECT_DIR$/Layout/threeLeftFix.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -176,7 +189,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -219,10 +232,6 @@
               <option name="myItemId" value="nec" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -247,46 +256,8 @@
               <option name="myItemId" value="nec" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="At sixes and sevens" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -388,7 +359,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-4" width="1374" height="732" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -422,11 +393,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/At sixes and sevens/text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="23" selection-start="953" selection-end="953" vertical-scroll-proportion="0.3772563" vertical-offset="342" max-vertical-offset="1254" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/function.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="17" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.3989455" vertical-offset="476" max-vertical-offset="1045" />
@@ -501,23 +467,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Layout/threeRightFix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="19" selection-start="609" selection-end="609" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/At sixes and sevens/text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="23" selection-start="953" selection-end="953" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="1254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Layout/threeLeftFix.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="23" selection-start="612" selection-end="612" vertical-scroll-proportion="-10.857142" vertical-offset="19" max-vertical-offset="665">
+        <state line="25" column="13" selection-start="764" selection-end="764" vertical-scroll-proportion="-16.285715" vertical-offset="19" max-vertical-offset="665">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="30" selection-start="1611" selection-end="1611" vertical-scroll-proportion="0.0" vertical-offset="523" max-vertical-offset="1083">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/threeRightFix.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="589" selection-end="589" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="665">
+        <state line="35" column="0" selection-start="1138" selection-end="1138" vertical-scroll-proportion="0.25357142" vertical-offset="523" max-vertical-offset="1083">
           <folding />
         </state>
       </provider>
