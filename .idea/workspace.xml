@@ -2,6 +2,1020 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6bb0e4b-e336-4d18-8fc0-adcbbe573394" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/AbstractPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/BlockingQueuePool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/com/highcharts/export/controller/ExportController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/com/highcharts/export/controller/ExportController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/Highcharts-icon-160px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/Highcharts-icon-160px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/util/MimeType.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ObjectPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/PoolException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/converter/SVGConverterException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/Server.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory$PortStatus.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/pool/ServerObjectFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/ServerState.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/com/highcharts/export/server/TimeOut.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/asm-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/images/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/calendar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/cglib-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-codec-1.7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-fileupload-1.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-io-1.3.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-lang-2.5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/demo-config-on-tile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/demo-config-on.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/demo-spindown-closed.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/demo-spindown-open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/images/earth.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/images/flight.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/gson-2.2.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras2_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras3_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras4_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/images/high_tatras_min.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/highcharts-export-convert-2.1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/highcharts-export-convert.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web.war" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/icon-docs-info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/images/jquery_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/images/jqueryui_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/jstl-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/log4j-1.2.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/images/pbar-ani.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/progressbar/images/pbar-ani.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/images/rocket.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/images/sizzlejs_32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/graphics/skies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/graphics/snow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/images/st-stephens.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/lib/standard-1.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/graphics/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/images/tower-bridge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/images/transparent_1x1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/images/ui-anim_basic_16x16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_flat_55_fbec88_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_glass_75_d0e5f5_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_glass_85_dfeffc_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_inset-hard_100_f5f8f9_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_217bc0_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_217bc0_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_217bc0_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_469bdd_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_469bdd_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_469bdd_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_6da8d5_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_6da8d5_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_6da8d5_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_d8e7f3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/images/ui-icons_f9bd01_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/images/ui-icons_f9bd01_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/images/ui-icons_f9bd01_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/gfx/vml-radial-gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/AbstractPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/BlockingQueuePool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/compnent/DropList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/java/com/highcharts/export/controller/ExportController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/util/MimeType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ObjectPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/PoolException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/converter/SVGConverterException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/Server.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/pool/ServerObjectFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/ServerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/java/com/highcharts/export/server/TimeOut.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/accepted-elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/alt-field.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-ajax/analytics.tsv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/animate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/animated.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/annotations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/annotations.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/annotations.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/app-convert.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/app-convert.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/aspect-ratio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/autocomplete.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/blind-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/bottom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/bounce-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/buttonbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/callback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/categories.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/clip-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/closetag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/codemirror.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/colorpicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/combobox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/connect-lists-through-tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/connect-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/constrain-area.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/constrain-movement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/ajax/content1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/ajax/content1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/ajax/content2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/ajax/content2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/ajax/content3-slow.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/ajax/content4-broken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/META-INF/context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/currency.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/cursor-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/custom-animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/custom-content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/custom-data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/custom-icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/custom-style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/cycler.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/date-formats.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/date-range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/datepicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/decimal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/addClass/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/animate/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/effect/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/hide/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/menu/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/progressbar/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/removeClass/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/selectable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/show/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/switchClass/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/toggle/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/toggleClass/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/widget/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/delay-start.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/demo_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/demos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/selectable/display-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/display-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/draggable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/drop-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/dropdown-month-year.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/droppable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/effect/easing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/empty-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/pages/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/pages/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/jsp/org/apache/jsp/WEB_002dINF/pages/error_jsp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/explode-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/export-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/export-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/fade-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/fillspace.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/fold-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/foldcode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/folding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/formatting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/formatting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/globalize.culture.de-DE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/globalize.culture.ja-JP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/globalize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/handle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/helper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/highcharts-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/highlight-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/highstock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/hotelrooms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/hoverintent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/icon-trigger.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/menu/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/progressbar/indeterminate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-missing/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/area-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/arearange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/arearange-line/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/areaspline/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/bar-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/bar-negative-stack/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/bar-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/box-plot/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/bubble/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/bubble-3d/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-drilldown/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-negative/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-parsed/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-rotated-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-stacked/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-stacked-and-grouped/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/column-stacked-percent/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/columnrange/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/combo/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/combo-dual-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/combo-multi-axes/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/combo-regression/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/dynamic-click-to-add/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/dynamic-master-detail/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/dynamic-update/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/error-bar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/funnel/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/gauge-clock/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/gauge-dual/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/gauge-speedometer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/gauge-vu-meter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-ajax/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-labels/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-log-axis/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-time-series/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/pie-basic/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/pie-donut/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/pie-gradient/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/pie-legend/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/polar/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/polar-spider/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/polar-wind-rose/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/renderer/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/scatter/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/spline-inverted/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/spline-irregular-time/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/spline-plot-bands/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/spline-symbols/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/examples/waterfall/index.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/addClass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/animate/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/effect/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/hide/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/menu/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/position/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/progressbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/removeClass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/selectable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/show/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/switchClass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/toggle/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/toggleClass/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/widget/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/php/php-batik/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/index_cp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/items.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/jQuery.widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/javascript-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/js/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/jquery-ui-1.10.4.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/jquery-ui-1.10.4.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/jquery-ui-1.10.4.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/js/jquery-ui-1.10.4.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/css/redmond/jquery-ui-1.10.4.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/js/jquery-ui-1.10.4.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery-ui-i18n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery-ui-i18n.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery-ui.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/jquery.1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/jquery.mousewheel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/jquery.sapling.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.accordion.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.accordion.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.autocomplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.autocomplete.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.autocomplete.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.autocomplete.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.base.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.button.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-af.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ar-DZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar-DZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/jquery.ui.datepicker-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-az.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-be.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-be.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-bs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-cy-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-cy-GB.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-da.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-de.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-el.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-en-AU.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-AU.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-en-GB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-GB.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-en-NZ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-en-NZ.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-es.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-et.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fa.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CA.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CA.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fr-CH.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr-CH.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/jquery.ui.datepicker-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-fr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-gl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/jquery.ui.datepicker-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-he.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-hy.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-id.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-is.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-it.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ja.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ka.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-kk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-km.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ko.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lb.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-lv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-mk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ml.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ms.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nb.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-nl-BE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl-BE.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-nn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-no.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt-BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-pt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-rm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-rm.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ru.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sr-SR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr-SR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-sv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-ta.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-th.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-tj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tj.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-tr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-uk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-vi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-CN.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-zh-HK.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-HK.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/jquery.ui.datepicker-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/i18n/jquery.ui.datepicker-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/i18n/jquery.ui.datepicker-zh-TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.dialog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.draggable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.droppable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-blind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-blind.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-bounce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-bounce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-clip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-clip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-drop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-explode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-explode.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-fade.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-fold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-fold.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-highlight.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-pulsate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-pulsate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-scale.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-shake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-shake.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-slide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect-transfer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect-transfer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.effect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.effect.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.menu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.mouse.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.position.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.progressbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.progressbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.progressbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.resizable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.resizable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.resizable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.resizable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.selectable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.selectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.selectable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.selectable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.selectable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.spinner.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.spinner.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.spinner.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.tabs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/jquery.ui.tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/base/minified/jquery.ui.tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/themes/redmond/minified/jquery.ui.tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/jquery.ui.widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui/minified/jquery.ui.widget.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/jquerysctipttop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/jshint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/progressbar/label.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/latlong.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/lexl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/jspf/lexl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/loadData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/loadmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/localization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/classes/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/london.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/manipulation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/modules/map.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/modules/map.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/match-highlighter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/max-min.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/maxheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/min-max.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/modal-confirmation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/modal-form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/modal-message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/dialog/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/mootools-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/mootools-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/mouse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/mouseover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/multiple-calendars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/multiple-remote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/multiple-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/multiplex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/no-auto-height.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/other-months.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/overflow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/photo-manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/pig-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/pig-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/placeholder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/maven-archiver/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/sortable/portlets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/progressbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/propagation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/prototype-adapter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/prototype-adapter.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/puff-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/pulsate-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/queryDemo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/queryDemo2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/external/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/radio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/range-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/rangemax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/rangemin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/phantomjs/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/remote-jsonp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/remote-with-cache.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/remote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/resizable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/revert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/revert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode-standalone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/runmode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/scale-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/searchcursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/selectable/serialize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/shake-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/shopping-cart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/datepicker/show-week.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/side-scroll.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/simple-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/simple-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/size-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/js/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/slide-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/slider-vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/snap-to-grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/snap-to.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/accordion/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/sortable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/spinner.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/splitbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/spring/spring-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/spring/spring-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/src/main/resources/spring-convert.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-convert/target/classes/spring-convert.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/js/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/slider/steps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prototype/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/synchronous-resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/textarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/spinner/time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/button/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/tracking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/docs/transfer-effect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/javascript/typescript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.accordion.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.autocomplete.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.button.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.core.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.datepicker.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.dialog.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.draggable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.droppable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-blind.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-bounce.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-clip.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-drop.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-explode.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-fade.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-fold.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-highlight.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-pulsate.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-scale.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-shake.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-slide.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect-transfer.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.effect.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.menu.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.mouse.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.position.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.progressbar.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.resizable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.selectable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.slider.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.sortable.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.spinner.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.tabs.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.tooltip.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/ui.widget.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008252.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008255.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008258.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008261.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008264.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008267.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008270.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008273.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008276.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008279.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008282.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008285.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008288.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008291.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008294.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008297.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008300.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008303.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008306.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008309.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008312.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008315.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008318.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008321.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008324.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008327.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008330.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008333.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008336.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008339.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008342.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008345.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008348.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008351.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008354.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008357.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008360.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008363.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008366.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008369.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008372.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008375.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008378.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008381.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008384.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008387.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008390.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008393.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008396.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008399.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008402.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008405.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008408.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008411.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008414.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008417.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008420.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008423.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008426.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008429.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008432.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008435.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008438.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008441.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008444.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008447.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008450.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008453.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008456.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008459.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008462.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008465.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008468.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008471.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008474.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008477.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/tmp/upload_6b0a0249_1409ff5e2a1__8000_00008489.tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tabs/vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/tooltip/video-player.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/draggable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/droppable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/resizable/visual-feedback.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/util/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/util/xml-hint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jqueryUI/development-bundle/demos/autocomplete/xml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/resources/lib/codemirror/mode/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/target/highcharts-export-web/resources/lib/codemirror/mode/xml/xml.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nec.iws" />
@@ -25,91 +1039,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="queryDemo2.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prototype/queryDemo2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="50" selection-start="1352" selection-end="1352" vertical-scroll-proportion="0.45714286" vertical-offset="523" max-vertical-offset="1083">
+            <state line="10" column="25" selection-start="432" selection-end="432" vertical-scroll-proportion="0.4871795" vertical-offset="228" max-vertical-offset="798">
+              <folding>
+                <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/line-time-series/index.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="26" selection-start="2265" selection-end="2265" vertical-scroll-proportion="70.25" vertical-offset="3278" max-vertical-offset="3819">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lexl.svg" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/lexl.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3002">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leftFixedRightAdaptive.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/leftFixedRightAdaptive.html">
+      <file leaf-file-name="loadData.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prototype/js/loadData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="45" selection-start="392" selection-end="397" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="627">
+            <state line="16" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2394">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leftAdaptiveRightFixed.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/leftAdaptiveRightFixed.html">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Prototype/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="534" selection-end="534" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="608">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="twoAdapt.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/twoAdapt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="33" selection-start="271" selection-end="271" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threeMidFix.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/threeMidFix.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="540" selection-end="540" vertical-scroll-proportion="-4.071429" vertical-offset="152" max-vertical-offset="684">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threeLeftFix.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/threeLeftFix.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="13" selection-start="764" selection-end="764" vertical-scroll-proportion="-16.285715" vertical-offset="19" max-vertical-offset="665">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threeRightFix.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/threeRightFix.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="19" selection-start="609" selection-end="609" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="665">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/At sixes and sevens/text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="23" selection-start="953" selection-end="953" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="1254">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiAdapt.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/multiAdapt.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="25" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multyFixed.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Layout/multyFixed.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="14" selection-start="273" selection-end="273" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="589">
+            <state line="71" column="17" selection-start="992" selection-end="992" vertical-scroll-proportion="-5.7" vertical-offset="1064" max-vertical-offset="1596">
               <folding />
             </state>
           </provider>
@@ -133,27 +1109,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Layout/text.html" />
-        <option value="$PROJECT_DIR$/css/function.css" />
-        <option value="$PROJECT_DIR$/css/jspToHtml.css" />
-        <option value="$PROJECT_DIR$/Layout/jspToHtml.html" />
-        <option value="$PROJECT_DIR$/Layout/multyAdapt.html" />
-        <option value="$PROJECT_DIR$/At sixes and sevens/text.html" />
-        <option value="$PROJECT_DIR$/template/命名规范" />
-        <option value="$PROJECT_DIR$/template/function.css" />
-        <option value="$PROJECT_DIR$/Layout/leftFixedRightAdaptive.html" />
-        <option value="$PROJECT_DIR$/css/multiAdapt.css" />
-        <option value="$PROJECT_DIR$/Layout/twoAdapt.html" />
         <option value="$PROJECT_DIR$/Layout/multyFixed.html" />
         <option value="$PROJECT_DIR$/Layout/threeMidFix.html" />
         <option value="$PROJECT_DIR$/Layout/threeRightFix.html" />
         <option value="$PROJECT_DIR$/Layout/threeLeftFix.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/compnent/DropList.html" />
+        <option value="$PROJECT_DIR$/Prototype/jquerysctipttop.css" />
+        <option value="$PROJECT_DIR$/Prototype/index.html" />
+        <option value="$PROJECT_DIR$/Prototype/css/accordion.css" />
+        <option value="$PROJECT_DIR$/jqueryUI/index_cp.html" />
+        <option value="$PROJECT_DIR$/Prototype/queryDemo.html" />
+        <option value="$PROJECT_DIR$/Prototype/css/layout.css" />
+        <option value="$PROJECT_DIR$/Prototype/queryDemo2.html" />
+        <option value="$PROJECT_DIR$/Prototype/js/loadData.js" />
+        <option value="$PROJECT_DIR$/Prototype/css/style.css" />
+        <option value="$PROJECT_DIR$/Highcharts-3.0.5/examples/line-time-series/index.htm" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1374" />
     <option name="height" value="732" />
@@ -193,7 +1169,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -212,6 +1188,16 @@
       <sortByType ProjectPane="false" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,7 +1226,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Layout" />
+              <option name="myItemId" value="Highcharts-3.0.5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,18 +1240,266 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jspf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Highcharts-3.0.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exporting-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="highcharts-export-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -284,13 +1518,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\WebStormProject\nec\Layout" />
-      <recent name="F:\WebStormProject\nec\css" />
-      <recent name="F:\WebStormProject\nec\img" />
-      <recent name="F:\WebStormProject\nec\template" />
-      <recent name="F:\WebStormProject\nec\page\template" />
+      <recent name="F:\WebStormProject\nec\Prototype\js" />
+      <recent name="F:\WebStormProject\nec" />
+      <recent name="F:\WebStormProject\nec\Prototype" />
+      <recent name="F:\WebStormProject\nec\jqueryUI" />
+      <recent name="F:\WebStormProject\nec\Prototype\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebStormProject\nec\Prototype\css" />
       <recent name="F:\WebStormProject\nec\At sixes and sevens" />
       <recent name="F:\WebStormProject\nec\page" />
       <recent name="F:\WebStormProject\nec" />
@@ -360,28 +1595,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-4" width="1374" height="732" extended-state="0" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.6715928" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -398,104 +1633,127 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/function.css">
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/column-stacked-and-grouped/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="17" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.3989455" vertical-offset="476" max-vertical-offset="1045" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="255" selection-end="255" vertical-scroll-proportion="0.2400722" vertical-offset="0" max-vertical-offset="554" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/animation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="545" column="1" selection-start="21059" selection-end="21059" vertical-scroll-proportion="-7.2460456" vertical-offset="14478" max-vertical-offset="17727" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/touchicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/function.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="49" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="798">
+        <state line="12" column="26" selection-start="390" selection-end="390" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="1558">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/multiAdapt.css">
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/bar-negative-stack/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="25" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+        <state line="72" column="11" selection-start="2603" selection-end="2603" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="1748">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/twoAdapt.html">
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/spline-symbols/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="271" selection-end="271" vertical-scroll-proportion="-5.428571" vertical-offset="0" max-vertical-offset="570">
+        <state line="72" column="4" selection-start="2233" selection-end="2233" vertical-scroll-proportion="-7.107143" vertical-offset="1169" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/threeMidFix.html">
+    <entry file="file://$PROJECT_DIR$/jqueryUI/index_cp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="540" selection-end="540" vertical-scroll-proportion="-4.071429" vertical-offset="152" max-vertical-offset="684">
+        <state line="18" column="27" selection-start="427" selection-end="427" vertical-scroll-proportion="-12.214286" vertical-offset="0" max-vertical-offset="2090">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/leftFixedRightAdaptive.html">
+    <entry file="file://$PROJECT_DIR$/Prototype/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="45" selection-start="392" selection-end="397" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="627">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/leftAdaptiveRightFixed.html">
+    <entry file="file://$PROJECT_DIR$/Prototype/js/highcharts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="534" selection-end="534" vertical-scroll-proportion="-8.821428" vertical-offset="0" max-vertical-offset="608">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5434">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/area-basic/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="0" selection-start="3337" selection-end="3337" vertical-scroll-proportion="-15.25" vertical-offset="1245" max-vertical-offset="1786">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prototype/js/loadData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="1812" max-vertical-offset="2394">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/multyFixed.html">
+    <entry file="file://$PROJECT_DIR$/Prototype/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="14" selection-start="273" selection-end="273" vertical-scroll-proportion="-6.785714" vertical-offset="0" max-vertical-offset="589">
+        <state line="71" column="17" selection-start="992" selection-end="992" vertical-scroll-proportion="-5.7" vertical-offset="1064" max-vertical-offset="1596">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/threeRightFix.html">
+    <entry file="file://$PROJECT_DIR$/Prototype/queryDemo2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="609" selection-end="609" vertical-scroll-proportion="-11.535714" vertical-offset="0" max-vertical-offset="665">
+        <state line="10" column="25" selection-start="432" selection-end="432" vertical-scroll-proportion="0.4871795" vertical-offset="228" max-vertical-offset="798">
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#0;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/js/modules/exporting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/examples/line-time-series/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="26" selection-start="2265" selection-end="2265" vertical-scroll-proportion="70.25" vertical-offset="3278" max-vertical-offset="3819">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="4" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/At sixes and sevens/text.html">
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="23" selection-start="953" selection-end="953" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="1254">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1919">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Layout/threeLeftFix.html">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="764" selection-end="764" vertical-scroll-proportion="-16.285715" vertical-offset="19" max-vertical-offset="665">
+        <state line="195" column="9" selection-start="3205" selection-end="3205" vertical-scroll-proportion="0.33333334" vertical-offset="3511" max-vertical-offset="17461">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Highcharts-3.0.5/exporting-server/java/highcharts-export/highcharts-export-web/src/main/webapp/WEB-INF/jspf/lexl.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="50" selection-start="1352" selection-end="1352" vertical-scroll-proportion="0.45714286" vertical-offset="523" max-vertical-offset="1083">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3002">
           <folding />
         </state>
       </provider>
